@@ -2,15 +2,13 @@
 
 This is a Python-based application that uses the KivyMD framework to predict the age and gender of a person from an image. The app integrates a pre-trained machine learning model for age and gender prediction.
 
-1.   Make sure to install the kivy (necessary libraries)
+1.  Make sure to install the kivy (necessary libraries)
 
-    ```         
-    pip install kivy kivymd
-    ```
+``` python
 
-```{=html}
-<!-- -->
+pip install kivy kivymd
 ```
+
 2.  Create a KivyMD app: You'll need to create a KivyMD app that captures user input (e.g., an image for age and gender prediction) and displays the results.
 
 3.  Add UI elements: In the KivyMD app, add the necessary UI elements like buttons, labels, and file pickers to interact with the user and get input.

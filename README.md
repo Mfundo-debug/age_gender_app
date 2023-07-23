@@ -89,4 +89,4 @@ Contributions are welcome! If you have any ideas for improvements or find any is
 
 ## Contact
 
-If you have any questions or need further assistance, you can reach out here -\> [email](diditmfundo@gmailcom)
+If you have any questions or need further assistance, you can reach out here 👉 [email](diditmfundo@gmailcom) and please dont forget to star 😅

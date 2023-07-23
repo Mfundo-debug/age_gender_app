@@ -23,7 +23,7 @@ This is a Python-based application that uses the KivyMD framework to predict the
 
 As I don't have access to your specific model code, I can provide you with an outline of how to do these steps in KivyMD. However, please keep in mind that the implementation details might differ based on your specific model and how you've trained it.
 
-Here's a basic code outline to get you started: refer to
+Here's a basic code outline to get you started: refer to [main.py](https://github.com/Mfundo-debug/age_gender_app/blob/main/main.py)
 
 ## Features
 
